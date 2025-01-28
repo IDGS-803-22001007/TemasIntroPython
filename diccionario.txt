@@ -1,0 +1,5 @@
+Perro:Dog
+Campana:Bell
+Balon:Ball
+Celular:SmartPhone
+rojo:red
